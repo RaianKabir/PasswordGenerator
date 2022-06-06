@@ -1,4 +1,3 @@
-from time import sleep
 from tkinter import *
 import secrets
 import string
